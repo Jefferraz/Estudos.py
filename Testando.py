@@ -68,5 +68,9 @@ else:
 """
 
 """
-Upado no git
+Upando no Git:
+
+Add: Ctrl + Alt + A
+Commit: Ctrl + K
+Push: Ctrl + Shift + K
 """
