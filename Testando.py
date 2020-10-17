@@ -186,3 +186,12 @@ aumento = (salario / 100) * 15 + salario
 
 print('O novo salário com 15% de aumento é: {}'.format(aumento))
 """
+
+"""
+#Importando biblioteca e seus itens
+
+import math
+num = int(input('Digite um número:'))
+raiz = math.sqrt(num)
+print('A raiz de {} é igual a {}'.format(num, raiz))
+"""
