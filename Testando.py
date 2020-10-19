@@ -195,3 +195,19 @@ num = int(input('Digite um número:'))
 raiz = math.sqrt(num)
 print('A raiz de {} é igual a {}'.format(num, raiz))
 """
+
+"""
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+
+p1 = Person ('Jefferson', 23)
+
+print (p1.name)
+print(p1.age)
+"""
+
+
+
