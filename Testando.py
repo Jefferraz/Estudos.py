@@ -209,5 +209,15 @@ print (p1.name)
 print(p1.age)
 """
 
+"""
+# Testando Pycharm em Linux"
+
+teste = input('Esse é um teste de Python em Linux, está funcionando? (S) P/ SIM & (N) P/ NÃO:')
+if teste == 'S':
+    print('Ok, obrigado"')
+else:
+    print('Ta legal, irei averiguar!')
+"""
+
 
 
