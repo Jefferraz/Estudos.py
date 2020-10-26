@@ -219,5 +219,13 @@ else:
     print('Ta legal, irei averiguar!')
 """
 
+"""
+#Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira
 
+from math import floor
 
+numero = float(input('Digite um número flutuante:'))
+inteiro = floor(numero)
+
+print('O número flutuante digitado, agora, convertido para inteiro é: {}'.format(inteiro))
+"""
